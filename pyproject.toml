@@ -1,0 +1,26 @@
+[cubi.metadata]
+pid = "undefined"
+version = "1.4.0"
+
+[cubi.metadata.naming.workflow.system]
+smk="snakemake"
+nxf="nextflow"
+cwl="common-workflow-language"
+wdl="workflow-definition-language"
+
+[cubi.metadata.naming.project.type]
+dev="development"
+run="production-run"
+bmk="benchmark"
+
+[cubi.project]
+pid = "undefined"
+type = "dev"
+name = "WGS-nfcore-raredisease"
+start_date = 2023-08-09
+end_data = 2099-12-31
+
+[[cubi.project.workflow]]
+pid = "https://doi.org/10.5281/zenodo.7995798"
+name = "nf-core/raredisease"
+version = "1.1.1"
