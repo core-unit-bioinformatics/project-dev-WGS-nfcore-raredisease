@@ -5,7 +5,7 @@ HG003,S1_L001,data/D2/D2_S1_L001_R1.fastq.gz,data/D2/D2_S1_L001_R2.fastq.gz,1,1,
 HG003,S1_L002,data/D2/D2_S1_L002_R1.fastq.gz,data/D2/D2_S1_L002_R2.fastq.gz,1,1,,,HG
 HG003,S2_L001,data/D2/D2_S2_L001_R1.fastq.gz,data/D2/D2_S2_L001_R2.fastq.gz,1,1,,,HG
 HG003,S2_L002,data/D2/D2_S2_L002_R1.fastq.gz,data/D2/D2_S2_L002_R2.fastq.gz,1,1,,,HG
-HG004,S1_L001,data/D3/D3_S1_L001_R1.fastq.gz,data/D3/D3_S1_L001_R2.fastq.gz,1,1,,,HG
-HG004,S1_L002,data/D3/D3_S1_L002_R1.fastq.gz,data/D3/D3_S1_L002_R2.fastq.gz,1,1,,,HG
-HG004,S2_L001,data/D3/D3_S2_L001_R1.fastq.gz,data/D3/D3_S2_L001_R2.fastq.gz,1,1,,,HG
-HG004,S2_L002,data/D3/D3_S2_L002_R1.fastq.gz,data/D3/D3_S2_L002_R2.fastq.gz,1,1,,,HG
+HG004,S1_L001,data/D3/D3_S1_L001_R1.fastq.gz,data/D3/D3_S1_L001_R2.fastq.gz,2,1,,,HG
+HG004,S1_L002,data/D3/D3_S1_L002_R1.fastq.gz,data/D3/D3_S1_L002_R2.fastq.gz,2,1,,,HG
+HG004,S2_L001,data/D3/D3_S2_L001_R1.fastq.gz,data/D3/D3_S2_L001_R2.fastq.gz,2,1,,,HG
+HG004,S2_L002,data/D3/D3_S2_L002_R1.fastq.gz,data/D3/D3_S2_L002_R2.fastq.gz,2,1,,,HG
